@@ -1,133 +1,225 @@
-👋 Hi, I'm Walter Mugendi
+# 👋 Hi, I'm Walter Mugendi
 
-Business Analyst | Project Manager | Software Architect | AI Prompt Engineer
+### Business Analyst | Project Manager | Software Architect | AI Prompt Engineer
 
+I am a multidisciplinary technology professional with experience in **Business Analysis, Project Management, Software Architecture, Digital Transformation, FinTech Solutions, and Artificial Intelligence**.
 
-I am a multidisciplinary technology professional with experience in Business Analysis, Project Management, Software Architecture, Digital Transformation, FinTech Solutions, and Artificial Intelligence.
+My passion is transforming **business requirements into practical, scalable, and technology-driven solutions** that create measurable business value.
 
-My passion is transforming business requirements into practical, scalable, and technology-driven solutions that create measurable business value.
+I bridge the gap between **stakeholders, business users, and technical teams** by combining analytical thinking, structured documentation, project coordination, solution architecture, and emerging AI technologies.
 
-I bridge the gap between stakeholders, business users, and technical teams by combining analytical thinking, structured documentation, project coordination, and solution architecture.
+---
 
-🚀 What I Do
-📊 Business Analysis <BR>
-Requirements Gathering & Analysis<BR>
-Business Process Analysis<BR>
-Gap Analysis <BR>
-Stakeholder Management <BR>
-Process Mapping
-Use Cases & User Stories
-Functional & Non-Functional Requirements
-Acceptance Criteria
-Requirements Traceability
-🏗️ Solution & Software Architecture
-System Architecture Design
-Application Architecture
-API & Integration Design
-Data Flow Analysis
-Enterprise Systems
-Architecture Documentation
-Microservices Concepts
-System Integration Planning
-📋 Project Management
-Project Planning & Delivery
-Agile & Scrum Management
-Sprint Planning
-Risk Management
-Stakeholder Communication
-Team Coordination
-Delivery Monitoring
-Project Documentation
-🤖 AI & Prompt Engineering
-AI-Assisted Business Analysis
-AI Documentation Workflows
-AI Research & Knowledge Management
-Prompt Engineering
-AI Workflow Design
-AI Agents & Automation
-Productivity Optimization
-💼 Bid & Proposal Management
-RFP Analysis
-Tender Evaluation
-Technical Proposal Development
-Compliance Matrix Preparation
-Scope Analysis
-Solution Alignment
-Bid Coordination
-📚 Documentation Expertise
-Experienced in creating and managing:
+# 🚀 What I Do
 
-✅ Software Requirements Specification (SRS)
+## 📊 Business Analysis
 
-✅ Business Requirements Documents (BRD)
+I help organizations understand their business problems, define requirements, and translate them into clear and actionable technology solutions.
 
-✅ Functional Requirements Documents (FRD)
+* Requirements Gathering & Analysis
+* Business Process Analysis
+* Gap Analysis
+* Stakeholder Management
+* Process Mapping
+* Use Cases & User Stories
+* Functional & Non-Functional Requirements
+* Acceptance Criteria
+* Requirements Traceability
+* Solution Analysis
 
-✅ Functional Specification Documents (FSD)
+---
 
-✅ Software Architecture Documents (SAD)
+## 🏗️ Solution & Software Architecture
 
-✅ User Stories & Use Cases
+I translate business and functional requirements into **structured, scalable, and well-documented software solutions**.
 
-✅ Process Flow Documentation
+* System Architecture Design
+* Application Architecture
+* API & Integration Design
+* Data Flow Analysis
+* Enterprise Systems
+* Architecture Documentation
+* Microservices Concepts
+* System Integration Planning
+* Solution Design
 
-✅ API & Integration Documentation
+---
 
-✅ Technical Proposal Documentation
+## 📋 Project Management
 
-🛠 Professional Toolkit
-Business Analysis
-SRS BRD FRD FSD SADUse Cases User StoriesProcess MappingGap Analysis
+I help transform ideas and requirements into **well-planned, coordinated, and successfully delivered projects**.
 
-Architecture & Design
-Mermaiddraw.ioSystem ArchitectureData Flow DiagramsSequence DiagramsERD
+* Project Planning & Delivery
+* Agile & Scrum Management
+* Sprint Planning
+* Risk Management
+* Stakeholder Communication
+* Team Coordination
+* Delivery Monitoring
+* Project Documentation
+* Task & Workflow Management
 
-Project Management
-JiraClickUpMicrosoft ProjectAgileScrumKanban
+---
 
-AI & Automation
-Prompt EngineeringAI WorkflowsAI AgentsAI DocumentationAI ResearchBusiness Automation
+## 🤖 AI & Prompt Engineering
 
-🌟 Industry Interests
-🏦 Banking & FinTech
+I explore how Artificial Intelligence can improve **business analysis, documentation, research, software delivery, and organizational productivity**.
 
-💳 Digital Financial Services
+* Prompt Engineering
+* AI-Assisted Business Analysis
+* AI Documentation Workflows
+* AI Research & Knowledge Management
+* AI Workflow Design
+* AI Agents & Automation
+* Productivity Optimization
+* Business Process Automation
+* AI-Assisted Software Delivery
 
-🛡 Insurance & InsurTech
+### 🧠 My Prompt Engineering Approach
 
-🏢 Enterprise Systems
+**Context → Role → Objective → Requirements → Constraints → Expected Output → Validation**
 
-📱 Digital Platforms
+I believe effective AI usage is not simply about asking better questions. It is about **designing structured interactions that produce reliable, useful, and repeatable results.**
 
-🔐 Digital Identity & KYC
+---
 
-📊 CRM & Customer Management
+## 💼 Bid & Proposal Management
 
-⚙️ Business Process Automation
+I work with business and technical requirements to support the **bidding, tender, and proposal lifecycle**.
 
-🤖 Artificial Intelligence Solutions
+* RFP Analysis
+* Tender Evaluation
+* Technical Proposal Development
+* Compliance Matrix Preparation
+* Scope Analysis
+* Solution Alignment
+* Bid Coordination
+* Requirements Interpretation
+* Technical Response Development
 
-🔄 Digital Transformation
+---
 
-💡 My Approach
+# 📚 Documentation Expertise
+
+I have experience creating and managing structured business, functional, and technical documentation, including:
+
+* ✅ **Software Requirements Specification (SRS)**
+* ✅ **Business Requirements Document (BRD)**
+* ✅ **Functional Requirements Document (FRD)**
+* ✅ **Functional Specification Document (FSD)**
+* ✅ **Software Architecture Document (SAD)**
+* ✅ **User Stories & Use Cases**
+* ✅ **Process Flow Documentation**
+* ✅ **API & Integration Documentation**
+* ✅ **Technical Proposal Documentation**
+* ✅ **Requirements Traceability Documentation**
+
+---
+
+# 🛠️ Professional Toolkit
+
+### 📊 Business Analysis
+
+`SRS` `BRD` `FRD` `FSD` `SAD` `Use Cases` `User Stories` `Process Mapping` `Gap Analysis`
+
+### 🏗️ Architecture & Design
+
+`Mermaid` `draw.io` `System Architecture` `Data Flow Diagrams` `Sequence Diagrams` `ERD` `API Design` `Integration Design`
+
+### 📋 Project Management
+
+`Jira` `ClickUp` `Microsoft Project` `Agile` `Scrum` `Kanban`
+
+### 🤖 AI & Automation
+
+`Prompt Engineering` `AI Workflows` `AI Agents` `AI Documentation` `AI Research` `Business Automation`
+
+---
+
+# 🌟 Industry Interests
+
+I enjoy working on projects that solve **real-world business, financial, and operational problems**, particularly:
+
+* 🏦 **Banking & FinTech**
+* 💳 **Digital Financial Services**
+* 🛡️ **Insurance & InsurTech**
+* 🏢 **Enterprise Systems**
+* 📱 **Digital Platforms**
+* 🔐 **Digital Identity & KYC**
+* 📊 **CRM & Customer Management**
+* ⚙️ **Business Process Automation**
+* 🤖 **Artificial Intelligence Solutions**
+* 🔄 **Digital Transformation**
+* 🏥 **Healthcare Technology**
+* 🛒 **E-Commerce**
+* 🌾 **Agriculture Technology**
+* 🚚 **Supply Chain & Logistics**
+
+---
+
+# 💡 My Approach
+
+I believe successful technology starts with **understanding the business problem before designing the technology solution.**
+
+```text
 Business Problem
        ↓
 Business Requirements
+       ↓
+Business Process Analysis
        ↓
 Solution Design
        ↓
 System Architecture
        ↓
-Project Delivery
+Project Planning
+       ↓
+Development & Implementation
+       ↓
+Testing & Deployment
        ↓
 Business Value
-Technology delivers results when it is aligned with business objectives, user needs, and effective execution.
+```
 
-📫 Connect With Me
-💼 LinkedIn: YOUR_LINKEDIN
+### 🎯 My Philosophy
 
-📧 Email: YOUR_EMAIL
+> **Technology delivers results when it is aligned with business objectives, user needs, and effective execution.**
 
-🌍 Location: Kenya
+---
 
-⭐ "Great solutions begin with understanding the business before building the technology."
+# 🌍 What I'm Passionate About
+
+I'm particularly interested in the intersection of:
+
+**Business + Technology + AI + Architecture + Project Delivery**
+
+I enjoy exploring how technology can be used to:
+
+* Solve complex business problems
+* Improve operational efficiency
+* Automate business processes
+* Improve customer experiences
+* Build scalable digital platforms
+* Enable digital transformation
+* Improve decision-making through AI
+* Connect business strategy with technology execution
+
+---
+
+# 📫 Connect With Me
+
+💼 **LinkedIn:** `https://www.linkedin.com/in/walter-mugendi/`
+
+📧 **Email:** `waltermugendi8@gmail.com`
+
+🌍 **Location:** Kenya
+
+---
+
+## ⭐ Let's Build Better Solutions
+
+> **"Great solutions begin with understanding the business before building the technology."**
+
+Thanks for visiting my GitHub profile! 🚀
+
+**Let's connect, collaborate, and build something meaningful.**
