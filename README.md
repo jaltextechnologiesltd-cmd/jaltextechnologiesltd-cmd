@@ -10,11 +10,11 @@ My passion is transforming business requirements into practical, scalable, and t
 I bridge the gap between stakeholders, business users, and technical teams by combining analytical thinking, structured documentation, project coordination, and solution architecture.
 
 🚀 What I Do
-📊 Business Analysis
-Requirements Gathering & Analysis
-Business Process Analysis
-Gap Analysis
-Stakeholder Management
+📊 Business Analysis <BR>
+Requirements Gathering & Analysis<BR>
+Business Process Analysis<BR>
+Gap Analysis <BR>
+Stakeholder Management <BR>
 Process Mapping
 Use Cases & User Stories
 Functional & Non-Functional Requirements
