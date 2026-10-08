@@ -1,7 +1,7 @@
 👋 Hi, I'm Walter Mugendi
 
 Business Analyst | Project Manager | Software Architect | AI Prompt Engineer
-YOUR_BANNER_IMAGE_URL
+
 
 I am a multidisciplinary technology professional with experience in Business Analysis, Project Management, Software Architecture, Digital Transformation, FinTech Solutions, and Artificial Intelligence.
 
